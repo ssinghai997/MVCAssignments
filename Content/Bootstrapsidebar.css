@@ -1,0 +1,14 @@
+﻿
+    /* The sidebar menu */
+    .sidenav
+    {
+        height: 100%; /* Full-height: remove this if you want "auto" height */
+        width: 100px; /* Set the width of the sidebar */
+        position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+        top: 0; /* Stay at the top */
+        left: 0;
+        background-color: orange; /* orange */
+        overflow-x: hidden; /* Disable horizontal scroll */
+        padding-top: 150px;
+    }
+
